@@ -9,7 +9,6 @@ An AI-powered tourist assistant prototype that recognizes landmarks and objects 
 - 📷 Real-time object recognition using a webcam
 - 🧠 Image understanding with OpenAI CLIP
 - 🌍 Retrieves information from Wikipedia
-- 🔊 Reads descriptions aloud using text-to-speech
 - ⚡ Displays predictions with confidence scores
 - 🖥️ Simple desktop application built with Python
 
@@ -84,7 +83,7 @@ The application will open your webcam and begin recognizing landmarks or objects
 - GPS integration
 - Offline mode
 - Better landmark recognition models
-
+- Reads descriptions aloud using text-to-speech
 ---
 
 ## 📸 Demo
