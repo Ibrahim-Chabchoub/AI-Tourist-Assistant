@@ -47,7 +47,7 @@ Tourist-AI-Prototype/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Ibrahim-Chabchoub/YOUR_REPOSITORY.git
 ```
 
 2. Navigate into the project
@@ -115,4 +115,4 @@ This project is intended for educational and learning purposes.
 
 **Ibrahim Chabchoub**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Ibrahim-Chabchoub
